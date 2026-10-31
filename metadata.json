@@ -1,0 +1,6 @@
+{
+  "name": "Food Radar",
+  "description": "Comprehensive food delivery platform featuring real-time interactive order tracking, secure multi-method checkout, multi-account roles (Buyer, Seller restaurant manager, Delivery driver, and Admin oversight panel) with transaction ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
